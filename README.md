@@ -1,2 +1,2 @@
 ### README
-This is a sample project
+Hi There!
