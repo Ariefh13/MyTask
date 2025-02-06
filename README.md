@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### 1. [University of San Francisco](https://www.ugm.ac.id) | MSEI | San Francisco `2024-2025`
+#### 1. [University of San Francisco](https://www.usfca.edu/) | MSEI | San Francisco `2024-2025`
    
 #### 2. [Universitas Padjadjaran](https://www.unpad.ac.id/) | Fisheries | Sumedang `2014-2018`
    
