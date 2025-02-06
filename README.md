@@ -1,9 +1,8 @@
 # Hi there, I'm Arief - [ariefhidytullah](https://www.instagram.com/ariefhidytullah/) 👋
 ## About me:
 - 🔭 I’m currently working as Founder and President of Cetta (https://cetta.id/) 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate as a Co-Founder in an EdTech company
-
 - 💬 Ask me about anything
 - 📫 How to reach me: ahidayatullah2@dons.usfca.edu
 
